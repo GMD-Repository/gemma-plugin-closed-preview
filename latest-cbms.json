@@ -1,10 +1,10 @@
 {
-  "version": "1.0.2-cbms-r1663",
-  "revision": "r1663",
-  "tag": "cbms-r1663",
-  "releaseDate": "2026-10-13",
+  "version": "1.0.2-cbms-r1665",
+  "revision": "r1665",
+  "tag": "cbms-r1665",
+  "releaseDate": "2026-10-14",
   "repositoryUrl": "https://raw.githubusercontent.com/GMD-Repository/gemma-plugin-closed-preview/main/gemma-cbms.xml",
-  "downloadUrl": "https://github.com/GMD-Repository/gemma-plugin-closed-preview/releases/download/cbms-r1663/gemma-cbmsbeta-r1663.zip",
-  "releaseUrl": "https://github.com/GMD-Repository/gemma-plugin-closed-preview/releases/tag/cbms-r1663",
+  "downloadUrl": "https://github.com/GMD-Repository/gemma-plugin-closed-preview/releases/download/cbms-r1665/gemma-cbmsbeta-r1665.zip",
+  "releaseUrl": "https://github.com/GMD-Repository/gemma-plugin-closed-preview/releases/tag/cbms-r1665",
   "branch": "cbms_main"
 }
